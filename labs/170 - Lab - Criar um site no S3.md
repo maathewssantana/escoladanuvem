@@ -9,4 +9,4 @@ Fazer upload de arquivos para o Amazon S3 para hospedar um site simples para a c
 
 Criar um arquivo em lote que possa ser usado para atualizar o site estático quando você alterar qualquer um dos arquivos do site localmente.
 
-![alt text](image-2.png)
+![alt text](image.png)
