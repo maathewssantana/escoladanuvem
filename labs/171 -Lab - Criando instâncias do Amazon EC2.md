@@ -9,4 +9,4 @@ Conectar-se à instância do EC2 usando o EC2 Instance Connect.
 
 Iniciar uma instância do EC2 usando a AWS CLI.
 
-![alt text](Architecture.jpg.png)
+![alt text](image-1.png)
