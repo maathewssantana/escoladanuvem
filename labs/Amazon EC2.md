@@ -11,3 +11,5 @@
 - Iniciar uma instância do EC2 usando a AWS CLI.
 
 ### Diagrama do fluxo ✅
+
+![EDN-EC2-CLI drawio](https://github.com/user-attachments/assets/2197e5ee-17dc-4005-8c3c-0735198de4fc)
