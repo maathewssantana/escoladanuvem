@@ -4,10 +4,10 @@
 
 ## Objetivo
 
--Executar uma instância do EC2 usando o Console de Gerenciamento da AWS.
+- Executar uma instância do EC2 usando o Console de Gerenciamento da AWS.
 
--Conectar-se à instância do EC2 usando o EC2 Instance Connect.
+- Conectar-se à instância do EC2 usando o EC2 Instance Connect.
 
--Iniciar uma instância do EC2 usando a AWS CLI.
+- Iniciar uma instância do EC2 usando a AWS CLI.
 
 ### Diagrama do fluxo ✅
