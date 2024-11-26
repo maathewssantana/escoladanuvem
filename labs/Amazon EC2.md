@@ -18,8 +18,6 @@
 # Execução 🚀
 
 
-### Tutorial Resumido
-
 **Etapa 1: Escolher um Nome e Tags**
 1. Use tags para categorizar recursos da AWS, como por finalidade ou ambiente.
 2. Nomeie sua instância; a AWS criará um par de chave-valor com a chave "Name".
