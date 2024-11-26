@@ -12,4 +12,4 @@
 
 ### Diagrama do fluxo ✅
 
-![EDN-EC2-CLI drawio](https://github.com/user-attachments/assets/2197e5ee-17dc-4005-8c3c-0735198de4fc)
+![EDN-EC2-CLI drawio](https://github.com/user-attachments/assets/d5f44b3f-e111-4773-a76c-2ab03deadd50)
