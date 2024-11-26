@@ -1,4 +1,4 @@
-# Escola da Nuvem 🌍
+# Escola da Nuvem ☁️🌍
 
 ## Repositório criado para laboratórios 
 
