@@ -15,6 +15,7 @@
 ![EDN-EC2-CLI drawio](https://github.com/user-attachments/assets/d5f44b3f-e111-4773-a76c-2ab03deadd50)
 
 
+# Execução 🚀
 
 
 ### Tutorial Resumido
