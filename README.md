@@ -16,7 +16,7 @@
 
 # 171- Lab -Criação de instâncias do Amazon EC2
 
-## 🖥️ [Creating a Website on S3](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/Criar%20um%20Site%20no%20S3.md)
+## 🖥️ [Creating EC2 Instances](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/Amazon%20EC2.md)
 
 <sub> _Neste tópico mostra a criação de instâncias EC2 e conexão CLI_ </sub>
 
