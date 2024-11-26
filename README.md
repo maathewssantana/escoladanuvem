@@ -2,7 +2,7 @@
 
 ## Repositório criado para laboratórios 
 
-## Created by :raising_hand_woman:
+## Created by :🙋🏾‍♂️
 
 - Matheus Santana.
 
