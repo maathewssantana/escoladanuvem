@@ -12,6 +12,6 @@
 
 ## 🪣 [Creating a Website on S3](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/Criar%20um%20Site%20no%20S3.md)
 
- _Neste tópico mostra a criação de um site estático no bucket S3_ 
+<sub> _Neste tópico mostra a criação de um site estático no bucket S3_ </sub>
 
 
