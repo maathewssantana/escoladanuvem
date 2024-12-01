@@ -10,7 +10,7 @@
 
 ### Diagrama do fluxo ✅
 
-![Criar um Site S3 drawio](https://github.com/user-attachments/assets/aca04ebe-4e6d-4aef-a28e-e1561630f15a)
+![Criar um Site S3 drawio](https://github.com/user-attachments/assets/78701bd8-1611-4fe4-9e87-cd0bd2f09800)
 
 
 # Site Original 🌐
