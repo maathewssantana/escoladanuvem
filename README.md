@@ -22,7 +22,7 @@
 
 # 173 - Lab - Solucionar problemas com a criação de uma instância do EC2 
 
-## 🖥️ [Creating EC2 Instances](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/173%20-%20Lab%20-%20Solucionar%20problemas%20para%20criar%20uma%20inst%C3%A2ncia.md)
+## 🖥️ [Problemas com a criação de uma instância do EC](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/173%20-%20Lab%20-%20Solucionar%20problemas%20para%20criar%20uma%20inst%C3%A2ncia.md)
 
 <sub> _Neste tópico mostra a solução de problemas com conexão CLI_ </sub>
 
