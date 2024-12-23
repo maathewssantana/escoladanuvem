@@ -20,7 +20,7 @@
 
 <sub> _Neste tópico mostra a criação de instâncias EC2 e conexão CLI_ </sub>
 
-# 173-Solucionar problemas com a criação de uma instância do EC2 
+# 173 - Lab - Solucionar problemas com a criação de uma instância do EC2 
 
 ## 🖥️ [Creating EC2 Instances](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/173%20-%20Lab%20-%20Solucionar%20problemas%20para%20criar%20uma%20inst%C3%A2ncia.md)
 
