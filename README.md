@@ -41,6 +41,6 @@
 
 # 176 - Roteamento de failover do Amazon Route 53
 
-## 🖥️ [Roteamento de failover do Amazon Route 53](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/175%20-%20Lab%20-%20Usar%20o%20Auto%20Scaling%20na%20AWS%20(Linux).md)
+## 🖥️ [Roteamento de failover do Amazon Route 53](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/176%20-%20Lab%20-%20Roteamento%20de%20failover%20do%20Amazon%20Route%2053.md)
 
 <sub> _Neste tópico mostra Roteamento de failover do Amazon Route 53_ </sub>
