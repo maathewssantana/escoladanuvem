@@ -32,3 +32,9 @@
 ## 🖥️ [Dimensionar e balancear a carga da arquitetura](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/174%20-%20Lab%20-%20Dimensionar%20e%20balancear%20a%20carga%20da%20arquitetura.md)
 
 <sub> _Neste tópico mostra a solução de Dimensionar e balancear a carga da arquitetura_ </sub>
+
+# 175 - Lab - Usar o Auto Scaling na AWS (Linux)
+
+## 🖥️ [Usar o Auto Scaling na AWS (Linux)](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/174%20-%20Lab%20-%20Dimensionar%20e%20balancear%20a%20carga%20da%20arquitetura.md)
+
+<sub> _Neste tópico mostra como Usar o Auto Scaling na AWS (Linux)_ </sub>
