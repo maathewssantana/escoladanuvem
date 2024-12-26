@@ -67,7 +67,15 @@ Nesta tarefa, você aprenderá a criar uma AMI (Amazon Machine Image) usando uma
      - **Default output format**: Insira `json`.
     
   Ele não fornece diretamente as credenciais no show, abaixo deixo o local onde pode pegar:
-  
+  ![explorer_PVptvKi1yn](https://github.com/user-attachments/assets/1d8b617f-e1fb-4453-83b3-985264d262d4)
+
+  Utilize na console o comando:
+
+  aws configure set aws_session_token IQoJb3JpZ2luX2VjEF8aCXVzLXdlc3QtMiJGMEQCIEpFSkhXQA3Ud0C38lWNioaUEDIHuwopY9u914kYlQUeAiB+6UmyTTwQKZ0ap080QCxHdQXUP4thXFI32iX47soVpiqzAgg4EAEaDDI0NjM3ODIwODM4NiIMgv+tL3u3Yyl2qBadKpACvnywPkEan7ZOyWAY0FRSyh6MzgrgrYbXTthkK5lerGXgLEziRRlSKRxePGwUcWoAteyBGilYEgfp08F6FTQzJuYqagZs2bc1Ti95j/aDffLta4VhELxDEhuUNSfss9wn28fb7cmVJ+4XXgvy6rJ8nToxGO9RUMq88oF0zL3238P17D3ck51kR9DqIXOpGsA0WZtnu7ArPFjvS8w5Nr3tLpg6RaxqHPWpDsgpy3XNgafbrfx7fQGQ8PTA5InR6QgUCo+2xqMFtJ8RfCDk32YnIukUK3hZ0vQIQD8Mx4nahJgWnp/tVT75LNIjbu9heWdszqFc4BP2Y+X7V77u1i+iH3pLqlhX86wb0CbWTTlQegYw4bi3uwY6ngG1Zr93+zDmXLNy7ziGlgSrVGiBhX1Qgpq+O+A8QqGGOPMEQRXdpbl1m9x7C6P7xeIRk+SMSpkzBCgvqFsnwhjoxBc0kMDsr/CGXz0/PI4CC6KncgGZZM0vs2SQt2swOPR7a007DTkWYecbz6OFbw/ydBy8PiTxBbdLA2tu/940/oqjDXJ9D5Eb9DTVWulYQl5TFp6mbP+lMaqCr4dvnA==
+
+  (OBS: Alterar o token para o valor gerado no seu painel)
+
+  Após isso pode rodar o script que será configurado no passo 3. **Modificar e Executar o Script**:
 
 3. **Navegar para o Diretório**:
    - Acesse o diretório com os scripts necessários:
