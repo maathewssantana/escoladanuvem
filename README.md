@@ -35,6 +35,6 @@
 
 # 175 - Lab - Usar o Auto Scaling na AWS (Linux)
 
-## 🖥️ [Usar o Auto Scaling na AWS (Linux)](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/174%20-%20Lab%20-%20Dimensionar%20e%20balancear%20a%20carga%20da%20arquitetura.md)
+## 🖥️ [Usar o Auto Scaling na AWS (Linux)](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/175%20-%20Lab%20-%20Usar%20o%20Auto%20Scaling%20na%20AWS%20(Linux).md)
 
 <sub> _Neste tópico mostra como Usar o Auto Scaling na AWS (Linux)_ </sub>
