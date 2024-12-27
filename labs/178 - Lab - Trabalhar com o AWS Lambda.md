@@ -19,7 +19,6 @@
 <img width="794" alt="lambda-activity-architecture" src="https://github.com/user-attachments/assets/fdd429be-e1f6-46e7-a326-6417d01c6cdf" />
 
 
-O diagrama inclui as seguintes etapas de função:
 
 O diagrama inclui as seguintes etapas de função:
 
