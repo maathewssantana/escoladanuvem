@@ -6,7 +6,7 @@
 
 - Matheus Santana.
 
-# AWS-projeto-Cloud <img src="https://img.shields.io/badge/Em%20Andamento-8A2BE2"/>
+# AWS Re/Start R2 <img src="https://img.shields.io/badge/Em%20Andamento-8A2BE2"/>
 
 # 170- Lab - Criar um site no S3
 
