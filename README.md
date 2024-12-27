@@ -50,3 +50,11 @@
 ### 🖥️ [Trabalhar com o AWS Lambda](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/178%20-%20Lab%20-%20Trabalhar%20com%20o%20AWS%20Lambda.md)
 
 <sub> _Neste tópico mostra Trabalhar com o AWS Lambda_ </sub>
+
+## 180 - Lab - Configurar uma Amazon VPC
+
+### 🖥️ [Configurar uma Amazon VPC](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/178%20-%20Lab%20-%20Trabalhar%20com%20o%20AWS%20Lambda.md)
+
+<sub> _Neste tópico mostra como configurar uma Amazon VPC_ </sub>
+
+
