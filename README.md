@@ -53,7 +53,7 @@
 
 ## 180 - Lab - Configurar uma Amazon VPC
 
-### 🖥️ [Configurar uma Amazon VPC](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/178%20-%20Lab%20-%20Trabalhar%20com%20o%20AWS%20Lambda.md)
+### 🖥️ [Configurar uma Amazon VPC](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/180%20-%20Lab%20-%20Configurar%20uma%20Amazon%20VPC.md)
 
 <sub> _Neste tópico mostra como configurar uma Amazon VPC_ </sub>
 
