@@ -45,12 +45,8 @@
 
 <sub> _Neste tópico mostra Roteamento de failover do Amazon Route 53_ </sub>
 
-# 176 - Trabalhar com o AWS Lambda 
+# 178 - Lab - Trabalhar com o AWS Lambda
 
-## 🖥️ [Roteamento de failover do Amazon Route 53](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/176%20-%20Lab%20-%20Roteamento%20de%20failover%20do%20Amazon%20Route%2053.md)
-
-<sub> _Neste tópico mostra Roteamento de failover do Amazon Route 53_ </sub>
-
-## 🖥️ [Trabalhar com o AWS Lambda](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/176%20-%20Lab%20-%20Roteamento%20de%20failover%20do%20Amazon%20Route%2053.md)
+## 🖥️ [Trabalhar com o AWS Lambda](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/178%20-%20Lab%20-%20Trabalhar%20com%20o%20AWS%20Lambda.md)
 
 <sub> _Neste tópico mostra Trabalhar com o AWS Lambda_ </sub>
