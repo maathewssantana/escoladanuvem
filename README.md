@@ -59,7 +59,7 @@
 
 ## 184 -Lab - [Desafio] Exercício de S3
 
-### 🖥️ [Exercício de S3](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/180%20-%20Lab%20-%20Configurar%20uma%20Amazon%20VPC.md)
+### 🖥️ [Exercício de S3](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/184%20-Lab%20-%20%5BDesafio%5D%20Exerc%C3%ADcio%20de%20S3.md)
 
 <sub> _Neste tópico mostra Exercício de S3_ </sub>
 
