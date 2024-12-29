@@ -55,6 +55,10 @@
 
 ### 🖥️ [Configurar uma Amazon VPC](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/180%20-%20Lab%20-%20Configurar%20uma%20Amazon%20VPC.md)
 
+## 182 - Lab - Trabalhar com o Amazon EBS
+
+### 🖥️ [Trabalhar com o Amazon EBS](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/180%20-%20Lab%20-%20Configurar%20uma%20Amazon%20VPC.md)
+
 <sub> _Neste tópico mostra como configurar uma Amazon VPC_ </sub>
 
 ## 184 -Lab - [Desafio] Exercício de S3
