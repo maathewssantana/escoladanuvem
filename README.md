@@ -57,7 +57,7 @@
 
 ## 181 - Lab - Troubleshooting a VPC
 
-### 🖥️ [Troubleshooting a VPC]()
+### 🖥️ [Troubleshooting a VPC](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/181%20-%20Lab%20-%20Solucionar%20problemas%20de%20uma%20VPC.md)
 
 ## 182 - Lab - Trabalhar com o Amazon EBS
 
