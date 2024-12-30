@@ -67,7 +67,7 @@
 
 ## 183 - Lab - Gerenciar o armazenamento
 
-### 🖥️ [Gerenciar o armazenamento](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/180%20-%20Lab%20-%20Configurar%20uma%20Amazon%20VPC.md)
+### 🖥️ [Gerenciar o armazenamento](https://github.com/maathewssantana/escoladanuvem/edit/main/labs/183%20-%20Lab%20-%20Gerenciar%20o%20armazenamento.md)
 
 <sub> _Neste tópico mostra como Gerenciar o armazenamento_ </sub>
 
