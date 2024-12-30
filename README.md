@@ -63,7 +63,13 @@
 
 ### 🖥️ [Trabalhar com o Amazon EBS](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/180%20-%20Lab%20-%20Configurar%20uma%20Amazon%20VPC.md)
 
-<sub> _Neste tópico mostra como configurar uma Amazon VPC_ </sub>
+### 🖥️ [Troubleshooting a VPC](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/181%20-%20Lab%20-%20Solucionar%20problemas%20de%20uma%20VPC.md)
+
+## 183 - Lab - Gerenciar o armazenamento
+
+### 🖥️ [Gerenciar o armazenamento](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/180%20-%20Lab%20-%20Configurar%20uma%20Amazon%20VPC.md)
+
+<sub> _Neste tópico mostra como Gerenciar o armazenamento_ </sub>
 
 ## 184 -Lab - [Desafio] Exercício de S3
 
