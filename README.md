@@ -51,6 +51,12 @@
 
 <sub> _Neste tópico mostra Trabalhar com o AWS Lambda_ </sub>
 
+## 179 - Lab - Migrar para o Amazon RDS
+
+### 🖥️ [Migrar para o Amazon RDS](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/178%20-%20Lab%20-%20Trabalhar%20com%20o%20AWS%20Lambda.md)
+
+<sub> _Neste tópico mostra Trabalhar com o AWS Lambda_ </sub>
+
 ## 180 - Lab - Configurar uma Amazon VPC
 
 ### 🖥️ [Configurar uma Amazon VPC](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/180%20-%20Lab%20-%20Configurar%20uma%20Amazon%20VPC.md)
