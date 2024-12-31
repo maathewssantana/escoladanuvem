@@ -55,7 +55,7 @@
 
 ### 🖥️ [Migrar para o Amazon RDS](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/178%20-%20Lab%20-%20Trabalhar%20com%20o%20AWS%20Lambda.md)
 
-<sub> _Neste tópico mostra Trabalhar com o AWS Lambda_ </sub>
+<sub> _Neste tópico mostra a migração de um banco local para um RDS_ </sub>
 
 ## 180 - Lab - Configurar uma Amazon VPC
 
@@ -68,8 +68,6 @@
 ## 182 - Lab - Trabalhar com o Amazon EBS
 
 ### 🖥️ [Trabalhar com o Amazon EBS](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/180%20-%20Lab%20-%20Configurar%20uma%20Amazon%20VPC.md)
-
-### 🖥️ [Troubleshooting a VPC](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/181%20-%20Lab%20-%20Solucionar%20problemas%20de%20uma%20VPC.md)
 
 ## 183 - Lab - Gerenciar o armazenamento
 
