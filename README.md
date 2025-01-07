@@ -81,4 +81,10 @@
 
 <sub> _Neste tópico mostra Exercício de S3_ </sub>
 
+## 185 -Lab - Trabalhar com o Amazon S3
+
+### 🖥️ [Trabalhar com o Amazon S3](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/184%20-Lab%20-%20%5BDesafio%5D%20Exerc%C3%ADcio%20de%20S3.md)
+
+<sub> _Neste tópico mostra Trabalhar com o Amazon S3_ </sub>
+
 
