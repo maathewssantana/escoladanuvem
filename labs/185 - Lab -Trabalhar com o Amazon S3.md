@@ -1,4 +1,4 @@
-# Exercício de S3 🖥️
+# Trabalhar com o Amazon S3 🖥️
 
 ## Laborátório 🥼
 
