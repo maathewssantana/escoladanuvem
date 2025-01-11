@@ -93,3 +93,32 @@
 
 <sub> _Neste tópico mostra como Monitorar a infraestrutura_ </sub>
 
+## 187 -Lab - Trabalhar com o AWS CloudTrail
+
+### 🖥️ [Trabalhar com o AWS CloudTrail](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/186%20-%20Lab%20-%20Monitorar%20a%20infraestrutura.md)
+
+<sub> _Neste tópico mostra como Trabalhar com o AWS CloudTrail_ </sub>
+
+## 188 -Lab - Gerenciar recursos com marcação
+
+### 🖥️ [Gerenciar recursos com marcação](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/186%20-%20Lab%20-%20Monitorar%20a%20infraestrutura.md)
+
+<sub> _Neste tópico mostra como Gerenciar recursos com marcação_ </sub>
+
+## 189 -Lab -  Otimizar a utilização
+
+### 🖥️ [Otimizar a utilização](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/186%20-%20Lab%20-%20Monitorar%20a%20infraestrutura.md)
+
+<sub> _Neste tópico mostra como Otimizar a utilização_ </sub>
+
+## 190 -Lab - Automatização de implantações com o AWS CloudFormation
+
+### 🖥️ [Automatização de implantações com o AWS CloudFormation](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/186%20-%20Lab%20-%20Monitorar%20a%20infraestrutura.md)
+
+<sub> _Neste tópico mostra como Automatização de implantações com o AWS CloudFormation_ </sub>
+
+## 191 -Lab - Solucionar problemas de implantações do AWS CloudFormation
+
+### 🖥️ [Solucionar problemas de implantações do AWS CloudFormation](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/186%20-%20Lab%20-%20Monitorar%20a%20infraestrutura.md)
+
+<sub> _Neste tópico mostra como Solucionar problemas de implantações do AWS CloudFormation_ </sub>
