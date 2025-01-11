@@ -212,6 +212,9 @@ Agora, você configurou um alarme que notificará quando muitos erros 404 forem 
 
 ### Tarefa 3: Monitorar Métricas de Instância Usando o CloudWatch
 
+![cloudwatch-metrics](https://github.com/user-attachments/assets/0281378b-950a-477a-aa68-88da8fbba97f)
+
+
 #### Passo 1: Examinar Métricas Básicas
 
 1. No Console de Gerenciamento da AWS, vá para **Elastic Compute Cloud**.
@@ -231,6 +234,9 @@ Você agora tem uma visão completa das métricas coletadas pelo CloudWatch, tan
 Claro, vamos simplificar essa tarefa para você também!
 
 ### Tarefa 4: Criar Notificações em Tempo Real com CloudWatch Events
+
+![cloudwatch-events](https://github.com/user-attachments/assets/06e8df16-9dc2-47e3-9d73-9dbca7fb4d48)
+
 
 #### Passo 1: Configurar a Regra de Eventos
 
