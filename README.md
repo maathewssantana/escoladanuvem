@@ -89,7 +89,7 @@
 
 ## 186 -Lab - Monitorar a infraestrutura
 
-### 🖥️ [Monitorar a infraestrutura](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/185%20-%20Lab%20-Trabalhar%20com%20o%20Amazon%20S3.md)
+### 🖥️ [Monitorar a infraestrutura](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/186%20-%20Lab%20-%20Monitorar%20a%20infraestrutura.md)
 
 <sub> _Neste tópico mostra como Monitorar a infraestrutura_ </sub>
 
