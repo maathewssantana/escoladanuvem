@@ -119,6 +119,6 @@
 
 ## 191 -Lab - Solucionar problemas de implantações do AWS CloudFormation
 
-### 🖥️ [Solucionar problemas de implantações do AWS CloudFormation](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/186%20-%20Lab%20-%20Monitorar%20a%20infraestrutura.md)
+### 🖥️ [Solucionar problemas de implantações do AWS CloudFormation](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/191%20-%20Lab%20-%20Solucionar%20problemas%20de%20implanta%C3%A7%C3%B5es%20do%20AWS%20CloudFormation.md)
 
 <sub> _Neste tópico mostra como Solucionar problemas de implantações do AWS CloudFormation_ </sub>
