@@ -113,7 +113,7 @@
 
 ## 190 -Lab - Automatização de implantações com o AWS CloudFormation
 
-### 🖥️ [Automatização de implantações com o AWS CloudFormation](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/186%20-%20Lab%20-%20Monitorar%20a%20infraestrutura.md)
+### 🖥️ [Automatização de implantações com o AWS CloudFormation](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/190%20-%20Lab%20-%20Automatiza%C3%A7%C3%A3o%20de%20implanta%C3%A7%C3%B5es%20com%20o%20AWS%20CloudFormation.md)
 
 <sub> _Neste tópico mostra como Automatização de implantações com o AWS CloudFormation_ </sub>
 
