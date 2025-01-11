@@ -1,4 +1,4 @@
-#A utomação com o CloudFormation🖥️
+# Automação com o CloudFormation🖥️
 
 ## Laborátório 🥼
 
