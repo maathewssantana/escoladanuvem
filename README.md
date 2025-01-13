@@ -107,7 +107,7 @@
 
 ## 189 -Lab -  Otimizar a utilização
 
-### 🖥️ [Otimizar a utilização](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/186%20-%20Lab%20-%20Monitorar%20a%20infraestrutura.md)
+### 🖥️ [Otimizar a utilização](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/189%20-%20Lab%20-%20Otimizar%20a%20utiliza%C3%A7%C3%A3o.md)
 
 <sub> _Neste tópico mostra como Otimizar a utilização_ </sub>
 
