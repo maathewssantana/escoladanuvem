@@ -101,7 +101,7 @@
 
 ## 188 -Lab - Gerenciar recursos com marcação
 
-### 🖥️ [Gerenciar recursos com marcação](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/186%20-%20Lab%20-%20Monitorar%20a%20infraestrutura.md)
+### 🖥️ [Gerenciar recursos com marcação](https://github.com/maathewssantana/escoladanuvem/blob/main/labs/188%20-%20Lab%20-%20Gerenciar%20recursos%20com%20marca%C3%A7%C3%A3o.md)
 
 <sub> _Neste tópico mostra como Gerenciar recursos com marcação_ </sub>
 
